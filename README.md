@@ -79,7 +79,7 @@ _Distribuído sobre a Licença do MIT. Veja mais em_ [LICENSE.md]
 
 
 ## 📖Sobre
-_A equipe de Segurança Cibernética Ravensec é formada pelos fundadores Alexandre Ferrera Lima, Mateus da Silva Taveira e Paulo Roberto Rocha Ferreira. Os integrantes são estudantes da Faculdade de Informática de Administração Paulista (FIAP), onde desenvolveram suas habilidades e por meio de propostas de projeto desenvolveram esse maná tecnológico._
+_A equipe de Segurança Cibernética Ravensec é formada pelos fundadores Alexandre Ferreira Lima, Mateus da Silva Taveira e Paulo Roberto Rocha Ferreira. Os integrantes são estudantes da Faculdade de Informática de Administração Paulista (FIAP), onde desenvolveram suas habilidades e por meio de propostas de projeto desenvolveram esse maná tecnológico._
 _Eles em unanimidade construiram um software anti-ransomware chamado Ravenware, com cerca de 6 mêses o projeto foi pensado e executado. Foram auxiliados pelos tutores da universidade e pela empresa de segurança Pride Security por três pitchs sobre o produto._
 _O nome "Ravensec" foi criado com base na ave "Corvo", onde são animais extremamente inteligentes, adaptativos, imitativos e, sobre tudo, são agentes de limpeza de lixos e pragas. A Ravensec tem o propósito parecido, remover as pragas e os lixos do meio digital._
 
